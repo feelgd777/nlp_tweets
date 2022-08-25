@@ -91,6 +91,15 @@ Here are some areas for further investigation to produce an improved model:
 
 - Train model on current data in order to improve its' performance on current tweets.
 
-# Repository Structure
-[repo_structure.txt](https://github.com/feelgd777/nlp_tweets/files/9425189/repo_structure.txt)
+## Repository Structure
 
+```
+├── Data
+│   └── Tweets.csv
+├── Visualizations
+│   ├── confusion.png
+│   └── reason1.png
+├── README.md
+├── Final_notebook.pdf
+└── presentation_tanzania_water_pumps.pdf 
+```
