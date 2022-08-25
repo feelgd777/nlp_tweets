@@ -90,3 +90,15 @@ Here are some areas for further investigation to produce an improved model:
 - Improve model performance on Positive and Neutral labels: More relevant and balanced data is required.
 
 - Train model on current data in order to improve its' performance on current tweets.
+
+
+# Repository Structure
+
+├── Data
+│   └── water_well_train_labels.png
+├── Visualizations
+│   ├── confusion.png
+│   └── reason1.png
+├── README.md
+├── Final_notebook.ipynb
+└── presentation_nlp_tweets.pdf 
