@@ -92,13 +92,28 @@ Here are some areas for further investigation to produce an improved model:
 - Train model on current data in order to improve its' performance on current tweets.
 
 
-# Repository Structure
-
-├── Data
+├── data
+│   ├── water_well_test_values.csv
+│   ├── water_well_train_clean.csv
+│   ├── water_well_train_data.csv
 │   └── water_well_train_labels.png
-├── Visualizations
-│   ├── confusion.png
-│   └── reason1.png
+├── notbooks_scratch
+│   ├── Anton modeling.ipynb
+│   ├── Anton-modeling2.ipynb
+│   ├── Anton.ipynb
+│   ├── Yuhkai_EDA.ipynb
+│   └── Yuhkai_modeling.ipynb
+├── visualizations
+│   ├── bagging_importances.png
+│   ├── bagging_importances_cleaned.png
+│   ├── confusion_matrices.png
+│   ├── model_identification_results.png
+│   ├── rfc_importances.png
+│   └── test_accuracy_scores.png
+├── .gitignore
 ├── README.md
-├── Final_notebook.ipynb
-└── presentation_nlp_tweets.pdf 
+├── main_notebook_cleaning.ipynb
+├── main_notebook_modeling.ipynb
+├── notebook_cleaning.pdf
+├── notebook_modeling.pdf
+└── presentation_tanzania_water_pumps.pdf 
