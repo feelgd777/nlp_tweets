@@ -7,7 +7,7 @@ Interpreting and classifying opinions and emotions in subjective data is referre
 
 # Business Understanding
 
-ocial media can be used to gather insight in customer' satisfaction and it's fluctuation in different locations or periods of time. Collected data can be used to analyze the fedback and imporove servives and products.
+Social media can be used to gather insight in customer' satisfaction and it's fluctuation in different locations or periods of time. Collected data can be used to analyze the fedback and imporove servives and products.
 
 Tweeter is a powerful source of information. Once extracted and processed data from tweeter can offer valuable insight for businesses regarding their performance.
 
@@ -34,7 +34,7 @@ As you can see on this graph, based on the data we used for analysis, the top co
 
 # Preprocessing
 
--	To prepare our data we identified features that we would use. We explored the dataset and check how meaningful the content is and how much of it is missing. In this analysis most meaningful are names of the airline and the content of user tweets.  We then identified our target, which is positive, neutral, and negative sentiment. Then, we preprocess the data. This includes the 
+-	To prepare our data we identified features that we would use. We explored the dataset and check how meaningful the content is and how much of it is missing. In this analysis most meaningful are names of the airline and the content of user tweets.  We then identified our target, which is positive, neutral, and negative sentiment. Then, we preprocess the data.
 
 -	We removed username mentions, hyperlinks, signs , numbers, converting emoji to words, punctuation, using Python regex sub() function that lets you check if a particular string matches a given regular expression.
 
